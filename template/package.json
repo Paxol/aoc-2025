@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "start": "bun index.ts --part",
-    "dev": "bun index.ts --part"
+    "dev": "bun index.ts --test --part"
   },
   "devDependencies": {
     "@types/bun": "latest"
