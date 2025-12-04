@@ -1,5 +1,5 @@
 import part1 from './part1';
-import part2 from './part2';
+import part2 from './part2-optimized';
 
 import { parseArgs } from "util";
 
